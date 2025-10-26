@@ -1,6 +1,7 @@
 Some interesting email addresses - will be cool to see if these are scraped by spammers.
 
-t.gusmeroli@westnet.com.au
-terry@me.atmailmobile.com
-dr.tm@slowme.com
-john@johnson.com
+* Gus <t.gusmeroli@westnet.com.au>
+* Terry <terry@me.atmailmobile.com>
+* Nectar <sweet-sweet-honey@abuse.junara.com>
+* Dr. Tim Minch <dr.tm@slowme.com>
+* John Johnson <john@johnson.com>
